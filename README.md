@@ -10,7 +10,7 @@
     <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dba52b0470340e16dbb5612c34cce7ad/taplink.png" 
          alt="Taplink" 
          height="30" 
-         width="40" />
+         width="60" />
   </a>
 </p>
 
