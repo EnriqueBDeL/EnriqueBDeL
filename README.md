@@ -3,8 +3,8 @@
 
 
 <h3 align="left">Redes sociales:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/enrique-braquehais-de-lara-6140a1268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enrique-braquehais-de-lara-6140a1268/" height="30" width="40" /></a>
+<p [align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/enrique-braquehais-de-lara-6140a1268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enrique-braquehais-de-lara-6140a1268/" height="30" width="40" /></a>](https://enriquebdl.taplink.ws/)
 </p>
 
 <h3 align="left">Languajes que utilizo:</h3>
