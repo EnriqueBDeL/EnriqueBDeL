@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es Enrique BDL</h1>
+<h1 align="center">Hola, mi nombre en linea es EnriqueBDL</h1>
 <h3 align="center">Soy un joven español estudiante de Ingeniería Informática</h3>
 
 
