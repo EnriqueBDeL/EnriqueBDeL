@@ -20,4 +20,4 @@
 
 
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquebdel&show_icons=true&locale=es" alt="enriquebdel" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquebdel&show_icons=true&theme=tokyonight&locale=es" alt="enriquebdel" /></p>
