@@ -21,3 +21,6 @@
 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquebdel&show_icons=true&theme=tokyonight&locale=es" alt="enriquebdel" /></p>
+
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquebdel&layout=compact&theme=tokyonight&locale=es" alt="Top Languages" /></p>
+
