@@ -1,26 +1,28 @@
 <h1 align="center">Hello, I'm EnriqueBDL</h1>
 <h3 align="center">Studying Computer Engineering</h3>
 
+<br>
 
-<h3 align="left">Social networks:</h3>
+<b>Social networks:</b>
+<br>
+<a href="https://enriquebdl.taplink.ws/" target="_blank">
+  <img src="https://img.shields.io/badge/Taplink-Connect_with_me-2C2255?style=for-the-badge&logo=linktree&logoColor=white" alt="Taplink"/>
+</a>
 
+<br>
 
+<b>Languages ​​I use:</b>
+<br>
 <p align="left">
-  <a href="https://enriquebdl.taplink.ws/" target="_blank">
-    <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dba52b0470340e16dbb5612c34cce7ad/taplink.png" 
-         alt="Taplink" 
-         height="30" 
-         width="60" />
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=cpu&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-800080?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
-<h3 align="left">Languages ​​I use:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquebdel&show_icons=true&theme=tokyonight&locale=es" alt="enriquebdel" /></p>
-<br>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquebdel&layout=compact&theme=tokyonight&locale=es" alt="Top Languages" /></p>
 
