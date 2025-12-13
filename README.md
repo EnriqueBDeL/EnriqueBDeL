@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/OpenMP-005A9C?style=for-the-badge&logo=c&logoColor=white" alt="OpenMP" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PL%2FSQL-800080?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
 </p>
 
