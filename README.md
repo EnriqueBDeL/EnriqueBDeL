@@ -27,3 +27,6 @@
   <img src="https://img.shields.io/badge/PL%2FSQL-800080?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
 </p>
 
+<br>
+
+![GitHub Stats](https://stats-api-bice.vercel.app/api?username=EnriqueBDeL)
