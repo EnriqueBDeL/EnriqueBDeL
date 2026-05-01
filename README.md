@@ -29,4 +29,4 @@
 
 <br>
 
-![GitHub Stats](https://stats-api-bice.vercel.app/api?username=EnriqueBDeL&style=hybrid)
+![GitHub Stats](https://stats-api-bice.vercel.app/api?username=EnriqueBDeL&style=hybrid&nerf=HTML:90,CSS:70)
